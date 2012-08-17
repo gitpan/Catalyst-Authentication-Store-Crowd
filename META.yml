@@ -8,6 +8,7 @@ build_requires:
   FindBin: 0
   Test::Fake::HTTPD: 0
   Test::More: 0
+  Test::TCP: 0
   Test::WWW::Mechanize::Catalyst: 0
   namespace::autoclean: 0
   strict: 0
@@ -27,4 +28,4 @@ requires:
   LWP::UserAgent: 0
   Moose: 0
   warnings: 0
-version: 0.01
+version: 0.02
