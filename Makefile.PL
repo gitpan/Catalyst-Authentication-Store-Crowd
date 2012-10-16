@@ -15,6 +15,7 @@ my %WriteMakefileArgs = (
     "Catalyst" => 0,
     "Catalyst::Controller" => 0,
     "FindBin" => 0,
+    "IO::Socket::SSL" => 0,
     "Test::Fake::HTTPD" => 0,
     "Test::More" => 0,
     "Test::TCP" => 0,
@@ -37,7 +38,7 @@ my %WriteMakefileArgs = (
     "Moose" => 0,
     "warnings" => 0
   },
-  "VERSION" => "0.03",
+  "VERSION" => "0.04",
   "test" => {
     "TESTS" => "t/*.t"
   }

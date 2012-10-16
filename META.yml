@@ -6,6 +6,7 @@ build_requires:
   Catalyst: 0
   Catalyst::Controller: 0
   FindBin: 0
+  IO::Socket::SSL: 0
   Test::Fake::HTTPD: 0
   Test::More: 0
   Test::TCP: 0
@@ -28,4 +29,4 @@ requires:
   LWP::UserAgent: 0
   Moose: 0
   warnings: 0
-version: 0.03
+version: 0.04

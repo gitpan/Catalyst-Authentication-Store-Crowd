@@ -21,6 +21,7 @@ lib/Catalyst/Authentication/Store/Crowd/User.pm
 t/01app.t
 t/02pod.t
 t/03podcoverapge.t
+t/04user.t
 t/lib/MockCrowdApp.pm
 t/lib/TestApp.pm
 t/lib/TestApp/Controller/Root.pm
